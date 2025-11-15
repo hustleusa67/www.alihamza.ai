@@ -1,0 +1,7 @@
+{
+  "name": "alihamzavideo ai",
+  "description": "An AI-powered video generation application for creating short-form and long-form videos for social media platforms. Users can generate videos from text prompts, with AI voiceovers, subtitles, and music.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
